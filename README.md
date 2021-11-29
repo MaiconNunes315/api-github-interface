@@ -6,7 +6,7 @@
 ```sh
 https://github.com/MaiconNunes315/EncurtadorLink.git
 ```
-### Libraries used
+### Bibliotecas usadas
 
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)

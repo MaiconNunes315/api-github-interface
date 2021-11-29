@@ -4,7 +4,7 @@
 ## Download
 
 ```sh
-https://github.com/MaiconNunes315/EncurtadorLink.git
+https://github.com/MaiconNunes315/api-github-interface.git
 ```
 ### Bibliotecas usadas
 
